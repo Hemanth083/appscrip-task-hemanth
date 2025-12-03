@@ -669,7 +669,7 @@ footer .copyright {
 
   .product-title {
     font-size: 12px;
-    max-width: 100%;
+    max-width: 87%;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
