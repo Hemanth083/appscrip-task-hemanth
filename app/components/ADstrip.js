@@ -6,14 +6,13 @@ export default function AdStrip({
     message = "Free shipping over ₹999 • Use code FREESHIP",
     ctaText = "Shop Now",
     ctaHref = "/shop",
-    bgColor = "#072f4f",      
-    textColor = "#ffffff",     
+    bgColor = "#072f4f",
+    textColor = "#ffffff",
 }) {
-  
 
-   
 
-    if (closed) return null;
+
+
 
     return (
         <div
@@ -27,7 +26,7 @@ export default function AdStrip({
                     <strong>{message}</strong>
                 </div>
 
-            
+
             </div>
         </div>
     );

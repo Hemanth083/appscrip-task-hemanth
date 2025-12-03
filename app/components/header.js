@@ -21,6 +21,8 @@ export default function Header() {
                     </svg>
                 </div>
 
+
+
                 <div className="center-logo">LOGO</div>
 
                 <div className="right-icons">
